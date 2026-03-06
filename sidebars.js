@@ -43,6 +43,16 @@ const sidebars = {
     },
     {
       type: 'category',
+      label: '🧪 QA',
+      collapsible: true,
+      collapsed: false,
+      items: [
+        'qa/d1-auth',
+        'qa/d2-auth',
+      ],
+    },
+    {
+      type: 'category',
       label: '🚀 Despliegue',
       collapsible: true,
       collapsed: false,
