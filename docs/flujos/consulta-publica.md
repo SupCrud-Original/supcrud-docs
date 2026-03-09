@@ -6,10 +6,6 @@ sidebar_label: Consulta pública
 
 # Consulta pública de ticket
 
-:::note Disponible desde
-Día 3 del sprint.
-:::
-
 ## Resumen
 
 Cualquier usuario final puede consultar el estado básico de su ticket usando su `referenceCode`, **sin autenticación**.

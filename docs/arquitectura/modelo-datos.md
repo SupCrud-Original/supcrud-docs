@@ -6,10 +6,6 @@ sidebar_label: Modelo de datos
 
 # Modelo de datos
 
-:::note Disponible desde
-Día 2 del sprint. Se documenta una vez que Carlos confirme el esquema final.
-:::
-
 ## PostgreSQL (Supabase)
 
 Tablas previstas:

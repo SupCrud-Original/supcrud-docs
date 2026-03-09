@@ -6,10 +6,6 @@ sidebar_label: Verificación OTP
 
 # Verificación OTP
 
-:::note Disponible desde
-Día 3 del sprint.
-:::
-
 ## Resumen
 
 Cuando el usuario final quiere acceder al detalle completo de su ticket, el sistema envía un código OTP de un solo uso a su email.

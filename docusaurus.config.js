@@ -62,22 +62,17 @@ const config = {
             label: 'Docs',
           },
           {
-            to: '/arquitectura/overview',
+            to: '/docs/arquitectura/overview',
             label: 'Arquitectura',
             position: 'left',
           },
           {
-            to: '/flujos/creacion-ticket',
-            label: 'Flujos',
-            position: 'left',
-          },
-          {
-            to: '/addons/overview',
+            to: '/docs/addons/overview',
             label: 'Add-ons',
             position: 'left',
           },
           {
-            to: '/despliegue/links',
+            to: 'docs/despliegue/links',
             label: 'Despliegue',
             position: 'left',
           },
@@ -95,15 +90,15 @@ const config = {
             title: 'Documentación',
             items: [
               { label: 'Introducción', to: '/' },
-              { label: 'Arquitectura', to: '/arquitectura/overview' },
-              { label: 'Flujos', to: '/flujos/creacion-ticket' },
+              { label: 'Arquitectura', to: '/docs/arquitectura/overview' },
+              { label: 'Flujos', to: '/docs/flujos/creacion-ticket' },
             ],
           },
           {
             title: 'Proyecto',
             items: [
-              { label: 'Add-ons', to: '/addons/overview' },
-              { label: 'Despliegue', to: '/despliegue/links' },
+              { label: 'Add-ons', to: '/docs/addons/overview' },
+              { label: 'Despliegue', to: '/docs/despliegue/links' },
             ],
           },
         ],

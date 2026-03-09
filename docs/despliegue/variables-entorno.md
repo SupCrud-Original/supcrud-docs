@@ -6,10 +6,6 @@ sidebar_label: Variables de entorno
 
 # Variables de entorno
 
-:::note Disponible desde
-Día 4 del sprint. Se completa con valores reales cuando todo esté desplegado.
-:::
-
 ## Backend (Node.js + Express en Render)
 
 ```bash

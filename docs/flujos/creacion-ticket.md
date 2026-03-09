@@ -6,10 +6,6 @@ sidebar_label: Creación de ticket
 
 # Flujo de creación de ticket
 
-:::note Disponible desde
-Día 3 del sprint.
-:::
-
 ## Resumen
 
 El usuario final crea un ticket desde el widget embebible sin necesidad de tener una cuenta.

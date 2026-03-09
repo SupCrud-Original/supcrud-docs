@@ -6,10 +6,6 @@ sidebar_label: Overview
 
 # Visión general del sistema
 
-:::note Disponible desde
-Día 2 del sprint. Esta página se completa con diagramas una vez confirmada la arquitectura final con el equipo.
-:::
-
 ## Niveles del sistema
 
 SupCrud opera con una arquitectura multi-tenant basada en **workspaces**. Cada workspace representa un negocio independiente con su propio `workspaceKey`.
