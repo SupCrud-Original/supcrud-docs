@@ -14,10 +14,10 @@ Esta página se actualiza al final del sprint con todas las URLs reales de produ
 
 | Servicio | URL | Estado |
 |---|---|---|
-| Frontend | `https://supcrud-original.github.io/supcrud-frontend/` | ⏳ Pendiente D4 |
-| Backend (API) | `https://supcrud-api.onrender.com` | ⏳ Pendiente D4 |
-| Documentación | `https://supcrud-original.github.io/supcrud-docs/` | ⏳ Pendiente D5 |
-| Widget | `https://TU_ORG_O_USER.github.io/supcrud-docs/widget.js` | ⏳ Pendiente D4 |
+| Frontend | `https://supcrud-original.github.io/supcrud-frontend/` |  |
+| Backend (API) | `https://supcrud-backend-production.up.railway.app` | |
+| Documentación | `https://supcrud-original.github.io/supcrud-docs/` |  |
+| Widget | `https://supcrud-original.github.io/supcrud-widget/` |  |
 
 ## Cómo instalar el widget
 
