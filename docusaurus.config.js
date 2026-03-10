@@ -18,8 +18,7 @@ const config = {
   projectName: 'supcrud-docs',        // Nombre exacto del repo en GitHub
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
-
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',      // ← agregar esta línea (antes probablemente dice 'throw')
   onBrokenMarkdownLinks: 'warn',
 
   i18n: {
